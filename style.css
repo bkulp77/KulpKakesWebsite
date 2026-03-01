@@ -24,7 +24,7 @@ p {
 }
 .small-image {
     width: 500px;
-    height: auto;
+    height: 500px;
     display: block;
     margin: 50px;
 }
