@@ -25,4 +25,6 @@ p {
 .small-image {
     width: 500px;
     height: auto;
+    display: block;
+    margin: 50px;
 }
