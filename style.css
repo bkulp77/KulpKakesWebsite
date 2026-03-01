@@ -23,9 +23,10 @@ p {
 
 }
 .small-image {
-    width: 400px;
-    height: 400px;
-  display: block;
-  margin: 50px;
-  
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: 50px;
 }
+  
+
